@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         cargarDatos();
         generarListView();
+        
     }
     public  void generarListView()
     {
